@@ -1,6 +1,6 @@
 <div align="center">
 
-[het verleden doet zeer, maar heb ervan geleerd . . .]()
+[het verleden doet zeer, maar heb ervan geleerd . . .](https://github.com/wachtmuziek)
 <br>
 <br>
 ![](https://piskel-imgstore-b.appspot.com/img/15c6a047-9a23-11ef-9a6f-0b01a4cf3689.gif)
