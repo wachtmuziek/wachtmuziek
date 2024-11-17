@@ -6,7 +6,7 @@
 ![](https://piskel-imgstore-b.appspot.com/img/15c6a047-9a23-11ef-9a6f-0b01a4cf3689.gif)
 <br>
 <br>
-![](https://i.imgur.com/F972hSo.png)
+<img src="https://i.imgur.com/F972hSo.png" width="500" />
 
 [atabook](https://bluezooka.atabook.org) ⠀⠀⠀⠀⠀⠀⠀⠀  [rentry](https://rentry.co/ik-wil-je)⠀
 <br>
